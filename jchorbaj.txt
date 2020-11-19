@@ -1,0 +1,5 @@
+Hello, I am Joseph Chorbajian!
+Git is painful to use. See XKCD #1597.
+
+If you're looking for a good git log command, here you go:
+git log --graph --oneline --decorate --date-order --all --branches
